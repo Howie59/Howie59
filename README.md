@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Howie59" alt="visitor badges"/>
+<img src="https://komarev.com/ghpvc/?username=Howie59&label=Visitors" alt="visitor badge"/>       
+</p>
