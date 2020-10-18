@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Howie's github stats](https://github-readme-stats.vercel.app/api?username=Howie59 "![Howie's github stats")](https://github.com/Howie59/Howie59)
+- 🔭 I’m currently researching on TiDB and cloud native
+- 🌱 I’m currently learning cloud native
+- 📫 How to reach me: howiel11(Wechat)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Howie59&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
