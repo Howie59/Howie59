@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently researching on TiDB and cloud native
-- 🌱 I’m currently learning cloud native
+- 🔭 I’m currently researching on TiDB and Cloud native
+- 🌱 I’m currently learning Cloud native
 - 📫 How to reach me: howiel11(Wechat)
 
 <!--
