@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently researching on TiDB and Cloud native
-- 🌱 I’m currently learning Cloud native
+- 🌱 Open-source software developer
 - 📫 How to reach me: howiel11(Wechat)
 
 <!--
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Howie59" alt="visitor badges"/>
 <img src="https://komarev.com/ghpvc/?username=Howie59&label=Visitors" alt="visitor badge"/>       
 </p>
+<img src="https://github-profile-trophy.vercel.app/?username=Howie59&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
