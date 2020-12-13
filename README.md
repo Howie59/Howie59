@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently researching on TiDB and Cloud native
+- 🔭 I’m currently researching on TiDB and Go's source code
 - 🌱 Open-source software developer
 - 📫 How to reach me: howiel11(Wechat)
 
