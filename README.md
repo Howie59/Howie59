@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently researching on TiDB and Cloud native related
-- 🌱 Open-source software developer
+- 🌱 Open-source fans
 - 📫 How to reach me: howiel11(Wechat)
 
 <!--
