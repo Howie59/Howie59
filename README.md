@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently researching on TiDB and Cloud native related
+- 🔭 I’m currently researching on Monitoring and Time-series Databases
 - 🌱 Open-source fans
 - 📫 How to reach me: howiel11(Wechat)
 
