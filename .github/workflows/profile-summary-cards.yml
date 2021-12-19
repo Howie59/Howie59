@@ -1,23 +1,27 @@
-name: GitHub-Profile-Summary-Cards
+name: generate animation
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "0 * * * *"
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
+  
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
