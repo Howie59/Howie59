@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=Howie59&label=Visitors" alt="visitor badge"/>       
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=Howie59&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Howie59/Howie59/output/github-contribution-grid-snake.svg)
